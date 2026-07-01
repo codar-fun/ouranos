@@ -1,0 +1,29 @@
+src/components/forms/loginForm/LoginForm.tsx
+  s_93db8b29645fba::t_342cc14ab185cf 116
+next.config.js
+  s_93db8b29645fba::t_0e383e3d2ae006 3
+Dockerfile
+  s_93db8b29645fba::t_7215e6ba392630 1-25
+src/lib/consts/general.ts
+  s_93db8b29645fba::t_47669afa77a3e6 2
+src/lib/api/auth/auth.ts
+  s_93db8b29645fba::t_cb0c77942c9a81 17
+src/app/api/auth/identity/actions.ts
+  s_93db8b29645fba::t_4d87521eb4969b 3,5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "dc4baed7c385b89418af3475692d54803a119471",
+  "prompts": {},
+  "sessions": {
+    "s_93db8b29645fba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44b03c52-165e-4de2-ade8-c4ed2c5eae67",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
