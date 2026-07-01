@@ -1,0 +1,23 @@
+src/lib/consts/general.ts
+  s_c7c294ddcc30bc::t_ffe8c0ea86858f 2
+src/lib/api/auth/auth.ts
+  s_c7c294ddcc30bc::t_10e9fefb84f0be 17
+src/components/forms/loginForm/LoginForm.tsx
+  s_c7c294ddcc30bc::t_d53e923c08b28b 116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "df5f9c65c26896855023292f0e5950705f675ff9",
+  "prompts": {},
+  "sessions": {
+    "s_c7c294ddcc30bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4902de79-d943-413e-b8b7-c5a851e32947",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
