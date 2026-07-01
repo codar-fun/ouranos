@@ -1,0 +1,21 @@
+src/lib/api/auth/auth.ts
+  s_c7c294ddcc30bc::t_5158e038c46789 30-39
+package-lock.json
+  s_c7c294ddcc30bc::t_cf2e21deae6ca7 1421,2439,2676,2779,2862,2906,2912,2944,2958,2969,3017,3291,3324,3340,3389,3396,3812,4101-4102,4293,4612,4811,4999,5440,5446,6232,6309,6469,9845,9970,10126,10153,10198,10245,10265,10643,11145,11455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "d67547741e2685c3948420d3d6f297d533fbdb78",
+  "prompts": {},
+  "sessions": {
+    "s_c7c294ddcc30bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4902de79-d943-413e-b8b7-c5a851e32947",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
