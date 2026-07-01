@@ -14,7 +14,7 @@ export const authOptions: NextAuthOptions = {
         handle: {
           label: "Handle",
           type: "text",
-          placeholder: "handle.bsky.wamo.social",
+          placeholder: "handle.pds.greenfield.town",
         },
         password: { label: "App Password", type: "password" },
       },

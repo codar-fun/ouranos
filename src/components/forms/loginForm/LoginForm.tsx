@@ -113,7 +113,7 @@ export default function LoginForm() {
             type="text"
             name="handle"
             icon={<MdAlternateEmail />}
-            placeholder="handle.bsky.wamo.social"
+            placeholder="handle.pds.greenfield.town"
             value={handle}
             onChange={(e) => {
               setError("");
