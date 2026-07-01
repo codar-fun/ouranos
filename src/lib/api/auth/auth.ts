@@ -27,10 +27,16 @@ export const authOptions: NextAuthOptions = {
         const service = await getService(credentials.handle);
         const agent = createAgent(service);
 
-        const result = await agent.login({
-          identifier: credentials.handle,
-          password: credentials.password,
-        });
+        let result;
+        try {
+          result = await agent.login({
+            identifier: credentials.handle,
+            password: credentials.password,
+          });
+        } catch (e) {
+          console.error("bluesky login error", service, credentials.handle, e);
+          throw e;
+        }
 
         if (result.success && agent.session) {
           const user = {
