@@ -92,21 +92,6 @@ export default function Page() {
           on your web browser.
         </p>
 
-        <p className="text-skin-base mt-3">
-          Note: When you visit the site,{" "}
-          <Link
-            href="https://vercel.com/analytics"
-            className="underline underline-offset-2"
-          >
-            Vercel Analytics
-          </Link>{" "}
-          is used to gather anonymized information to help me get a general idea
-          and provide better support. These include number of visitors, top
-          visited pages, countries, operating systems, and web browsers. No
-          cookies and nothing personal is collected that can be linked back to
-          you. If you are using an ad blocker, tracking is likely disabled.
-        </p>
-
         <h3 className="text-skin-base mb-1 mt-6 text-lg font-semibold">
           Why do you recommend using an app password to log in?
         </h3>
