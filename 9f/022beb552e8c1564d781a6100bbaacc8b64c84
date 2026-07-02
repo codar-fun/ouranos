@@ -1,0 +1,19 @@
+package-lock.json
+  s_c7c294ddcc30bc::t_d1480776763570 2006,2542,2822,3164,3557,5669,10593,10640
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "9f022beb552e8c1564d781a6100bbaacc8b64c84",
+  "prompts": {},
+  "sessions": {
+    "s_c7c294ddcc30bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4902de79-d943-413e-b8b7-c5a851e32947",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
